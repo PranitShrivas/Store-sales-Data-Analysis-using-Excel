@@ -3,8 +3,6 @@
 ## Dashboard Preview
 ![Dashboard](dashboard_preview.png)
 
-<img width="1528" height="741" alt="image" src="https://github.com/user-attachments/assets/9f64fd64-00f5-4379-9f54-b9b4424adcc3" /># Store-sales-Data-Analysis-using-Excel
-
 📊 Vrinda Store Sales Dashboard (Excel)
 
 📌 Project Overview
